@@ -19,10 +19,23 @@ a {
     transition: all 0.3s;
 }
 
+p {
+    padding: 0 15%;
+    font-size: 1.1rem;
+    font-weight: 300;
+    word-spacing: 2px;
+    margin: 50px 0;
+}
+
+img {
+    height: 300px;
+}
+
 section {
     width: 100%;
     padding: 7.5% 20%;
     padding-bottom: 0;
+    text-align: left;
 }
 section h1 {
     font-weight: 600;
@@ -37,6 +50,7 @@ section a:hover {
     background-color: #e14374;
 }
 section p {
+    padding: 0;
     font-size: 1.1rem;
     font-weight: 300;
     word-spacing: 2px;
