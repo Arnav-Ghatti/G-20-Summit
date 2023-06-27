@@ -128,10 +128,7 @@ section#radiate {
     font-weight: 400;
 }
 .content p {
-    font-size: 0.9rem;
-    margin-top: 20px;
-    font-weight: 300;
-    color: white;
+    margin-top: 50px;
 }
 
 .content a {
